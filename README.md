@@ -1,8 +1,8 @@
 ## Curriculo
-*Nome:*   Marcelo Passamai Mendes<br>
-*Email:*  marceloestudoifes@gmail.com<br>
-*Localização:* Vila Velha - ES<br>
-Cursando Bacharel em Sistema de informação - *IFES*.<br>
+**Nome:**   Marcelo Passamai Mendes<br>
+**Email:**  marceloestudoifes@gmail.com<br>
+**Localização:** Vila Velha - ES<br>
+Cursando Bacharel em Sistema de informação - **IFES**.<br>
 <hr>
 <br>
 ### Conhecimentos
