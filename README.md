@@ -17,7 +17,7 @@ Cursando Bacharel em Sistema de informação - **IFES**.<br>
 	
 ### Projetos 
 
-- Sistema de monitoramento para psicultura
+- **Sistema de monitoramento para psicultura**<br>
 desenvolvido durante o quarto periodo, toda documentação esta disponível no repositório abaixo.   
 [repositório](https://github.com/pisciculturainteligente/trab01)
 
