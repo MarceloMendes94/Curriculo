@@ -33,7 +33,7 @@ Desenvolvido na disciplina de redes de computadores, o sistema é uma atividade 
 #### Profissional 
 - **Elaboração de um banco de horas**.
 Desenvolvido junto ao pólo de inovação, localizado atualmente no campus vitória, para monitoramento das atividades dos bolsistas.
-	-Linguagem de programação utilizada : PHP.<br>
+	- Linguagem de programação utilizada : PHP.<br>
 [Polo Embrapii](https://github.com/MarceloMendes94/trab01)
 
 ### Cursos
