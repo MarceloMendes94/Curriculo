@@ -17,11 +17,18 @@ Cursando Bacharel em Sistema de informação - **IFES**.<br>
 	
 ### Projetos 
 
+#### Acadêmicos
+
 - **Sistema de monitoramento para psicultura**<br>
 Desenvolvido durante o quarto periodo, toda documentação esta disponível no repositório abaixo.
 	- Linguagem de programação utilizada: JAVA.
 	- Banco de dados : postgresql.<br>
 [repositório](https://github.com/pisciculturainteligente/trab01)
+
+- **Elaboração de um sistema de autenticação com Sockets**<br>
+Desenvolvido na disciplina de redes de computadores, o sistema é uma atividade para o aprendizado e uso da API socket.
+	- Linguagem de programação utilizada : C.
+[Socket](https://github.com/MarceloMendes94/Torre-stark)
 
 ### Cursos
 
