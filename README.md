@@ -25,6 +25,21 @@ Cursando Bacharel em Sistema de informação - **IFES**.<br>
 
 ### Experiências  profissionais 
 <br>
+
+	| tempo | atividade | local |
+	| ----- | ----- | ----- |
+	| 1 dia | atividade | casa |
+
+
+
+
+
+
+
+
+
+<br>
+
 	| tempo | atividade | local |
 	| ---- | ---- | ---- |
 	| 6 meses | Suporte e manuenção. | TJES tribunal de justiça do Espírito Santo.|
