@@ -24,24 +24,10 @@ Cursando Bacharel em Sistema de informação - **IFES**.<br>
 	Desenvolvimento Android com Java.
 
 ### Experiências  profissionais 
-<br>
 
-	| tempo | atividade | local |
-	| ----- | ----- | ----- |
-	| 1 dia | atividade | casa |
+| tempo | atividade | local |
+| ---- | ---- | ---- |
+| 6 meses | Suporte e manuenção. | TJES tribunal de justiça do Espírito Santo.|
+| 4 meses | Desenvolvimento e criação de um Ambiente Para simulação de normas de segurança no trabalho. | Pixinside. | 	
+| 1 ano   | Modelagem e Desenvolvimento de um sistema de banco de horas para bolsistas do pólo de inovação. | IFES vitória. | 
 
-
-
-
-
-
-
-
-
-<br>
-
-	| tempo | atividade | local |
-	| ---- | ---- | ---- |
-	| 6 meses | Suporte e manuenção. | TJES tribunal de justiça do Espírito Santo.|
-	| 4 meses | Desenvolvimento e criação de um Ambiente Para simulação de normas de segurança no trabalho. | Pixinside. | 	
-	| 1 ano   | Modelagem e Desenvolvimento de um sistema de banco de horas para bolsistas do pólo de inovação. | IFES vitória. | 
