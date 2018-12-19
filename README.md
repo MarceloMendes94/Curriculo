@@ -20,7 +20,7 @@ Cursando Bacharel em Sistema de informação - **IFES**.<br>
 - **Sistema de monitoramento para psicultura**<br>
 Desenvolvido durante o quarto periodo, toda documentação esta disponível no repositório abaixo.
 	- Linguagem de programação utilizada: JAVA.
-	- Banco de dados : postgresql.
+	- Banco de dados : postgresql.<br>
 [repositório](https://github.com/pisciculturainteligente/trab01)
 
 ### Cursos
