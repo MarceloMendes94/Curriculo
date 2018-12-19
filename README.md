@@ -27,7 +27,7 @@ Desenvolvido durante o quarto periodo, toda documentação esta disponível no r
 
 - **Elaboração de um sistema de autenticação com Sockets**<br>
 Desenvolvido na disciplina de redes de computadores, o sistema é uma atividade para o aprendizado e uso da API socket.
-	- Linguagem de programação utilizada : C.
+	- Linguagem de programação utilizada : C.<br>
 [Socket](https://github.com/MarceloMendes94/Torre-stark)
 
 ### Cursos
