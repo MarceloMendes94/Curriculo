@@ -11,6 +11,7 @@ Cursando Bacharel em Sistema de informação - **IFES**.<br>
 	Java.
 	Python.
 	C#.
+	PHP.
 	Linguagem de banco de dados SQL.
 	Modelagem e análise de Sistemas UML.
 	Versionamento com Github.
@@ -31,10 +32,15 @@ Desenvolvido na disciplina de redes de computadores, o sistema é uma atividade 
 [Socket](https://github.com/MarceloMendes94/Torre-stark)
 
 #### Profissional 
-- **Elaboração de um banco de horas**.
+- **Elaboração de um banco de horas**
 Desenvolvido junto ao pólo de inovação, localizado atualmente no campus vitória, para monitoramento das atividades dos bolsistas.
 	- Linguagem de programação utilizada : PHP.<br>
 [Polo Embrapii](https://github.com/MarceloMendes94/trab01)
+
+- **Visume**
+Desenvolimento de soluções de busca de candidatos,responsividade e paginação  para plataforma de video curriculos visume   
+    - Competências : <br>linguagem de programação PHP.<br> SQL.<br>html,css e javascript.<br>
+[Site do visume](http://www.visume.com.br/)<br>
 
 ### Cursos
 
@@ -48,5 +54,4 @@ Desenvolvido junto ao pólo de inovação, localizado atualmente no campus vitó
 | 6 meses | Suporte e manuenção. | TJES tribunal de justiça do Espírito Santo.|
 | 4 meses | Desenvolvimento e criação de um Ambiente Para simulação de normas de segurança no trabalho. | Pixinside. | 	
 | 1 ano   | Modelagem e Desenvolvimento de um sistema de banco de horas para bolsistas do pólo de inovação. | IFES vitória. | 
-
- ola mundo
+| 2 meses |Desenvolvimento de soluções para finalização do projeto de uma plataforma de vídeo curriculos.|Morpheus|
